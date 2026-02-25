@@ -2,16 +2,16 @@
 
 <img src="./image/ic.png" width="15%">
 
-# Pyroscape
+# IXGenerator
 
 [![Blueprint](https://img.shields.io/badge/Blueprint-2.5.1-blue?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY--SA_4.0-brightgreen?style=for-the-badge)](#)
 
-An adaptive icon pack. 
+一套自适应图标主题包
 
-**&gt; English &lt;** | [简体中文](README_zh_CN.md)
+[English](README.md) | **&gt; 简体中文 &lt;**
 </div>
 
-## Overview
+## 简介
 
-An adaptive icon pack powered by [Blueprint](https://github.com/jahirfiquitiva/Blueprint).
+一套自适应图标主题包，由 [Blueprint](https://github.com/jahirfiquitiva/Blueprint) 强力驱动。
