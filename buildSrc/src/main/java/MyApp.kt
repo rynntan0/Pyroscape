@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "io.rynntan.pyroscape"
-    const val version = 1
-    const val versionName = "0.1.0"
+    const val version = 2
+    const val versionName = "0.1.1"
 }
