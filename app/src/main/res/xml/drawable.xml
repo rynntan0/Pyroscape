@@ -1,52 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" ?>
 <resources>
-
     <version>1</version>
-
-    <category title="Latest" />
-
-    <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Google Apps" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
-
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
-
-    <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
+    <category title="icons"/>
+    <item drawable="rootexplorer"/>
+    <item drawable="xuexinwang"/>
+    <item drawable="wechat"/>
+    <item drawable="pinduoduo"/>
+    <item drawable="qq"/>
+    <item drawable="chinatelecom"/>
+    <item drawable="skland"/>
+    <item drawable="dongqiudi"/>
+    <item drawable="zhilian"/>
+    <item drawable="termux"/>
+    <item drawable="arknights"/>
+    <item drawable="exclave"/>
+    <item drawable="coolapk"/>
+    <item drawable="necloudmusic"/>
+    <item drawable="materialfiles"/>
+    <item drawable="amap"/>
+    <item drawable="huazhuhui"/>
+    <item drawable="mtexplorer"/>
+    <item drawable="shanganya"/>
+    <item drawable="guopin"/>
+    <item drawable="obtainium"/>
+    <item drawable="box"/>
+    <item drawable="redbook"/>
+    <item drawable="hupu"/>
+    <item drawable="bilibili"/>
+    <item drawable="packagenames"/>
+    <item drawable="xiaoyuansouti"/>
+    <item drawable="chinamobile"/>
+    <item drawable="nga"/>
+    <item drawable="meituan"/>
+    <item drawable="alipay"/>
+    <item drawable="_51job"/>
+    <item drawable="zhihu"/>
+    <item drawable="weibo"/>
+    <item drawable="fcitx"/>
+    <item drawable="apatch"/>
+    <item drawable="quzhi"/>
+    <item drawable="yuketang"/>
+    <item drawable="xuexitong"/>
+    <item drawable="alibaba"/>
+    <item drawable="cainiao"/>
+    <item drawable="firefox"/>
+    <item drawable="_12306"/>
+    <item drawable="duitang"/>
+    <item drawable="taobao"/>
+    <item drawable="telegram"/>
+    <item drawable="dingtalk"/>
+    <item drawable="migu"/>
+    <item drawable="quanminkge"/>
+    <item drawable="linksheet"/>
+    <item drawable="thunderbird"/>
+    <item drawable="kdeconnect"/>
+    <item drawable="nexus"/>
+    <item drawable="qqmusic"/>
+    <item drawable="idlefish"/>
+    <item drawable="bankboc"/>
+    <item drawable="quark"/>
+    <item drawable="amazon"/>
+    <item drawable="giffgaff"/>
+    <item drawable="hzsmk"/>
+    <item drawable="brevent"/>
+    <item drawable="bankabc"/>
+    <item drawable="baidunetdisk"/>
+    <item drawable="boss"/>
+    <item drawable="googlemap"/>
+    <item drawable="motodolby"/>
+    <item drawable="playstore"/>
+    <item drawable="arrowsgame"/>
+    <item drawable="dialer"/>
+    <item drawable="messaging"/>
+    <item drawable="chrome"/>
+    <item drawable="googlephotos"/>
+    <item drawable="googlemap"/>
+    <item drawable="contacts"/>
+    <item drawable="arrowscamera"/>
+    <item drawable="gmail"/>
+    <item drawable="calculator"/>
+    <item drawable="lalasia"/>
+    <item drawable="googledrive"/>
+    <item drawable="youtube"/>
+    <item drawable="googlecalendar"/>
 </resources>

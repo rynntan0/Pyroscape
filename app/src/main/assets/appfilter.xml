@@ -2,47 +2,328 @@
 <resources>
 
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="people" />
-
+        component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}"
+        drawable="rootexplorer" />
+	
     <item
-        component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="people" />
-
+        component="ComponentInfo{cn.com.chsi.chsiapp/cn.com.chsi.chsiapp.base.GuideActivity}"
+        drawable="xuexinwang" />
+	
     <item
-        component="ComponentInfo{com.android.contacts/}"
-        drawable="people" />
-
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="wechat" />
+	
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="" />
-
+        component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
+        drawable="pinduoduo" />
+	
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="something" />
-
+        component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="qq" />
+	
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="icon" />
-
+        component="ComponentInfo{com.ct.client/com.ct.client.activity.SplashActivity}"
+        drawable="chinatelecom" />
+	
     <item
-        component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="phone" />
-
+        component="ComponentInfo{com.hypergryph.skland/com.hypergryph.skland.splash.SplashActivity}"
+        drawable="skland" />
+	
     <item
-        component="ComponentInfo{com.android.contacts/}"
+        component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}"
+        drawable="dongqiudi" />
+	
+    <item
+        component="ComponentInfo{com.zhaopin.social/com.zhaopin.social.SplashActivity}"
+        drawable="zhilian" />
+	
+    <item
+        component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
+        drawable="termux" />
+	
+    <item
+        component="ComponentInfo{com.hypergryph.arknights.bilibili/com.u8.sdk.U8UnityContext}"
+        drawable="arknights" />
+	
+    <item
+        component="ComponentInfo{com.github.dyhkwong.sagernet/io.nekohasekai.sagernet.ui.MainActivity}"
+        drawable="exclave" />
+	
+    <item
+        component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}"
+        drawable="coolapk" />
+	
+    <item
+        component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.IconChangeDefaultAlias}"
+        drawable="necloudmusic" />
+	
+    <item
+        component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}"
+        drawable="materialfiles" />
+	
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
+        drawable="amap" />
+	
+    <item
+        component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}"
+        drawable="huazhuhui" />
+	
+    <item
+        component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainLightIcon}"
+        drawable="mtexplorer" />
+	
+    <item
+        component="ComponentInfo{com.gaodun.apps.shanganya/com.xbcx.gdwx3.account.page.WelcomeActivity}"
+        drawable="shanganya" />
+	
+    <item
+        component="ComponentInfo{com.iguopin.app/com.iguopin.app.launch.GPLauncherActivity}"
+        drawable="guopin" />
+	
+    <item
+        component="ComponentInfo{dev.imranr.obtainium/dev.imranr.obtainium.MainActivity}"
+        drawable="obtainium" />
+	
+    <item
+        component="ComponentInfo{com.box.app/com.box.app.MainActivity}"
+        drawable="box" />
+	
+    <item
+        component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}"
+        drawable="redbook" />
+	
+    <item
+        component="ComponentInfo{com.hupu.games/com.hupu.games.main.MainActivity}"
+        drawable="hupu" />
+	
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+        drawable="bilibili" />
+	
+    <item
+        component="ComponentInfo{com.csdroid.pkg.pro/com.csdroid.pkg.MainActivity}"
+        drawable="packagenames" />
+	
+    <item
+        component="ComponentInfo{com.fenbi.android.solar/com.fenbi.android.solar.activity.RouterActivity}"
+        drawable="xiaoyuansouti" />
+	
+    <item
+        component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.StartPageActivity}"
+        drawable="chinamobile" />
+	
+    <item
+        component="ComponentInfo{gov.anzong.androidnga/gov.anzong.androidnga.activity.MainActivity}"
+        drawable="nga" />
+	
+    <item
+        component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}"
+        drawable="meituan" />
+	
+    <item
+        component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
+        drawable="alipay" />
+	
+    <item
+        component="ComponentInfo{com.job.android/com.job.android.pages.launcher.LauncherActivity}"
+        drawable="_51job" />
+	
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
+        drawable="zhihu" />
+	
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
+        drawable="weibo" />
+	
+    <item
+        component="ComponentInfo{org.fcitx.fcitx5.android/org.fcitx.fcitx5.android.ui.main.MainActivity}"
+        drawable="fcitx" />
+	
+    <item
+        component="ComponentInfo{me.bmax.apatch/me.bmax.apatch.ui.MainActivity}"
+        drawable="apatch" />
+	
+    <item
+        component="ComponentInfo{com.klcxkj.zqxy/com.klcxkj.zqxy.ui.splash.SplashActivity}"
+        drawable="quzhi" />
+	
+    <item
+        component="ComponentInfo{com.xuetangx.ykt/com.xuetangx.ykt.MainActivity}"
+        drawable="yuketang" />
+	
+    <item
+        component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}"
+        drawable="xuexitong" />
+	
+    <item
+        component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
+        drawable="alibaba" />
+	
+    <item
+        component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
+        drawable="cainiao" />
+	
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="firefox" />
+	
+    <item
+        component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}"
+        drawable="_12306" />
+	
+    <item
+        component="ComponentInfo{com.duitang.main/com.duitang.main.activity.SplashActivity}"
+        drawable="duitang" />
+	
+    <item
+        component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
+        drawable="taobao" />
+	
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
+        drawable="telegram" />
+	
+    <item
+        component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}"
+        drawable="dingtalk" />
+	
+    <item
+        component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}"
+        drawable="migu" />
+	
+    <item
+        component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.alias.default}"
+        drawable="quanminkge" />
+	
+    <item
+        component="ComponentInfo{fe.linksheet.nightly/fe.linksheet.activity.main.MainActivity}"
+        drawable="linksheet" />
+	
+    <item
+        component="ComponentInfo{net.thunderbird.android/com.fsck.k9.activity.MainActivity}"
+        drawable="thunderbird" />
+	
+    <item
+        component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}"
+        drawable="kdeconnect" />
+	
+    <item
+        component="ComponentInfo{com.razer.bianca/com.razer.bianca.ui.splash.SplashActivity}"
+        drawable="nexus" />
+	
+    <item
+        component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}"
+        drawable="qqmusic" />
+	
+    <item
+        component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}"
+        drawable="idlefish" />
+	
+    <item
+        component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
+        drawable="bankboc" />
+	
+    <item
+        component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}"
+        drawable="quark" />
+	
+    <item
+        component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}"
+        drawable="amazon" />
+	
+    <item
+        component="ComponentInfo{com.giffgaffmobile.controller/com.giffgaffmobile.controller.MainActivity}"
+        drawable="giffgaff" />
+	
+    <item
+        component="ComponentInfo{com.smk/com.smk.activity.LaunchActivity}"
+        drawable="hzsmk" />
+	
+    <item
+        component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}"
+        drawable="brevent" />
+	
+    <item
+        component="ComponentInfo{com.android.bankabc/com.android.bankabc.LauncherActivity}"
+        drawable="bankabc" />
+	
+    <item
+        component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.DefaultMainActivity}"
+        drawable="baidunetdisk" />
+	
+    <item
+        component="ComponentInfo{com.hpbr.bosszhipin/com.hpbr.bosszhipin.module.launcher.WelcomeActivity}"
+        drawable="boss" />
+	
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="googlemap" />
+	
+    <item
+        component="ComponentInfo{com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity}"
+        drawable="motodolby" />
+	
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="playstore" />
+	
+    <item
+        component="ComponentInfo{com.fcnt.mobile_phone.gamelauncher/com.fcnt.mobile_phone.gamelauncher.activity.LauncherMainActivity}"
+        drawable="arrowsgame" />
+	
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
+        drawable="dialer" />
+	
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="messaging" />
+	
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome" />
+	
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="googlephotos" />
+	
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+        drawable="googlemap" />
+	
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
         drawable="contacts" />
-
+	
     <item
-        component="ComponentInfo{}"
-        drawable="cell" />
-
+        component="ComponentInfo{com.motorola.camera5/com.motorola.camera.Camera}"
+        drawable="arrowscamera" />
+	
     <item
-        component="ComponentInfo{/}"
-        drawable="an_icon" />
-
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="gmail" />
+	
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="" />
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="calculator" />
+	
+    <item
+        component="ComponentInfo{com.fujitsu.mobile_phone.healthcare/com.fujitsu.mobile_phone.healthcare.MainActivity}"
+        drawable="lalasia" />
+	
+    <item
+        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="googledrive" />
+	
+    <item
+        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="youtube" />
+	
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="googlecalendar" />
+	
 
 </resources>
