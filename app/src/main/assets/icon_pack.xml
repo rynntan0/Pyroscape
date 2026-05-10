@@ -133,5 +133,8 @@
         <item>_bankcmb</item>
         <item>_zhuanzhuan</item>
         <item>_settings</item>
+        <item>_eudic</item>
+        <item>_pyroscape</item>
+        <item>_lawnchair</item>
     </string-array>
 </resources>

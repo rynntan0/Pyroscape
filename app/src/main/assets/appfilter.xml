@@ -457,6 +457,18 @@
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="_settings" />
 	
+    <item
+        component="ComponentInfo{com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity}"
+        drawable="_eudic" />
+	
+    <item
+        component="ComponentInfo{io.rynntan.pyroscape/io.rynntan.pyroscape.MainActivity}"
+        drawable="_pyroscape" />
+	
+    <item
+        component="ComponentInfo{app.lawnchair/app.lawnchair.LawnchairLauncher}"
+        drawable="_lawnchair" />
+	
 
     <!-- custom tail fragment (inserted after all <item/> entries) -->
 	<dynamic-calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="_googlecalendar" map="calendar_google" />

@@ -123,4 +123,7 @@
     <AppIcon name="cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity" image="_bankcmb"/>
     <AppIcon name="com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity" image="_zhuanzhuan"/>
     <AppIcon name="com.android.settings/com.android.settings.Settings" image="_settings"/>
+    <AppIcon name="com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity" image="_eudic"/>
+    <AppIcon name="io.rynntan.pyroscape/io.rynntan.pyroscape.MainActivity" image="_pyroscape"/>
+    <AppIcon name="app.lawnchair/app.lawnchair.LawnchairLauncher" image="_lawnchair"/>
 </Theme>

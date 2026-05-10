@@ -114,4 +114,7 @@
     <item class="cmb.pb.app.mainframe.container.PBMainActivity" name="_bankcmb"/>
     <item class="com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity" name="_zhuanzhuan"/>
     <item class="com.android.settings.Settings" name="_settings"/>
+    <item class="com.eusoft.dict.activity.SplashActivity" name="_eudic"/>
+    <item class="io.rynntan.pyroscape.MainActivity" name="_pyroscape"/>
+    <item class="app.lawnchair.LawnchairLauncher" name="_lawnchair"/>
 </appmap>

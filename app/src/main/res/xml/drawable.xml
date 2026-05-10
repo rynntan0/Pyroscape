@@ -116,4 +116,7 @@
     <item drawable="_bankcmb"/>
     <item drawable="_zhuanzhuan"/>
     <item drawable="_settings"/>
+    <item drawable="_eudic"/>
+    <item drawable="_pyroscape"/>
+    <item drawable="_lawnchair"/>
 </resources>
