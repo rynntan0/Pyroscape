@@ -122,7 +122,7 @@
         <item>_contacts</item>
         <item>_felica</item>
         <item>_calculator</item>
-        <item>_clock</item>
+        <item>_googleclock</item>
         <item>_messaging</item>
         <item>_gemini</item>
     </string-array>

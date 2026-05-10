@@ -103,7 +103,7 @@
     <item class="com.android.contacts.activities.PeopleActivity" name="_contacts"/>
     <item class="com.felicanetworks.mfm.main.ServiceListActivity" name="_felica"/>
     <item class="com.android.calculator2.Calculator" name="_calculator"/>
-    <item class="com.android.deskclock.DeskClock" name="_clock"/>
+    <item class="com.android.deskclock.DeskClock" name="_googleclock"/>
     <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="_messaging"/>
     <item class="com.google.android.apps.bard.shellapp.BardEntryPointActivity" name="_gemini"/>
 </appmap>

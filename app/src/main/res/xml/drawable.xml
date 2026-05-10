@@ -105,7 +105,7 @@
     <item drawable="_contacts"/>
     <item drawable="_felica"/>
     <item drawable="_calculator"/>
-    <item drawable="_clock"/>
+    <item drawable="_googleclock"/>
     <item drawable="_messaging"/>
     <item drawable="_gemini"/>
 </resources>

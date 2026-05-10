@@ -112,7 +112,7 @@
     <AppIcon name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity" image="_contacts"/>
     <AppIcon name="com.felicanetworks.mfm.main/com.felicanetworks.mfm.main.ServiceListActivity" image="_felica"/>
     <AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="_calculator"/>
-    <AppIcon name="com.google.android.deskclock/com.android.deskclock.DeskClock" image="_clock"/>
+    <AppIcon name="com.google.android.deskclock/com.android.deskclock.DeskClock" image="_googleclock"/>
     <AppIcon name="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity" image="_messaging"/>
     <AppIcon name="com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity" image="_gemini"/>
 </Theme>
