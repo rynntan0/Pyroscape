@@ -106,4 +106,12 @@
     <item class="com.android.deskclock.DeskClock" name="_googleclock"/>
     <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="_messaging"/>
     <item class="com.google.android.apps.bard.shellapp.BardEntryPointActivity" name="_gemini"/>
+    <item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="_douyin"/>
+    <item class="com.tencent.zone.main.LauncherActivity" name="_zhangwa"/>
+    <item class="com.aihuishou.opt.ui.splash.SplashActivity" name="_paijitang"/>
+    <item class="net.thunderbird.app.common.MainActivity" name="_thunderbird"/>
+    <item class="com.zhaopin.social.SplashActivity" name="_zhilian"/>
+    <item class="cmb.pb.app.mainframe.container.PBMainActivity" name="_bankcmb"/>
+    <item class="com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity" name="_zhuanzhuan"/>
+    <item class="com.android.settings.Settings" name="_settings"/>
 </appmap>

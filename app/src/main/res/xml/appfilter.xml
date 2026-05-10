@@ -425,6 +425,38 @@
         component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}"
         drawable="_gemini" />
 	
+    <item
+        component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="_douyin" />
+	
+    <item
+        component="ComponentInfo{com.tencent.apps.valorant/com.tencent.zone.main.LauncherActivity}"
+        drawable="_zhangwa" />
+	
+    <item
+        component="ComponentInfo{com.aihuishou.opt/com.aihuishou.opt.ui.splash.SplashActivity}"
+        drawable="_paijitang" />
+	
+    <item
+        component="ComponentInfo{net.thunderbird.android/net.thunderbird.app.common.MainActivity}"
+        drawable="_thunderbird" />
+	
+    <item
+        component="ComponentInfo{com.zhaopin.social/com.zhaopin.social.SplashActivity}"
+        drawable="_zhilian" />
+	
+    <item
+        component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}"
+        drawable="_bankcmb" />
+	
+    <item
+        component="ComponentInfo{com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity}"
+        drawable="_zhuanzhuan" />
+	
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="_settings" />
+	
 
     <!-- custom tail fragment (inserted after all <item/> entries) -->
 	<dynamic-calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="_googlecalendar" map="calendar_google" />

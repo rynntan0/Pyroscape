@@ -115,4 +115,12 @@
     <AppIcon name="com.google.android.deskclock/com.android.deskclock.DeskClock" image="_googleclock"/>
     <AppIcon name="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity" image="_messaging"/>
     <AppIcon name="com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity" image="_gemini"/>
+    <AppIcon name="com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity" image="_douyin"/>
+    <AppIcon name="com.tencent.apps.valorant/com.tencent.zone.main.LauncherActivity" image="_zhangwa"/>
+    <AppIcon name="com.aihuishou.opt/com.aihuishou.opt.ui.splash.SplashActivity" image="_paijitang"/>
+    <AppIcon name="net.thunderbird.android/net.thunderbird.app.common.MainActivity" image="_thunderbird"/>
+    <AppIcon name="com.zhaopin.social/com.zhaopin.social.SplashActivity" image="_zhilian"/>
+    <AppIcon name="cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity" image="_bankcmb"/>
+    <AppIcon name="com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity" image="_zhuanzhuan"/>
+    <AppIcon name="com.android.settings/com.android.settings.Settings" image="_settings"/>
 </Theme>

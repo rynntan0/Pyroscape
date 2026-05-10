@@ -108,4 +108,12 @@
     <item drawable="_googleclock"/>
     <item drawable="_messaging"/>
     <item drawable="_gemini"/>
+    <item drawable="_douyin"/>
+    <item drawable="_zhangwa"/>
+    <item drawable="_paijitang"/>
+    <item drawable="_thunderbird"/>
+    <item drawable="_zhilian"/>
+    <item drawable="_bankcmb"/>
+    <item drawable="_zhuanzhuan"/>
+    <item drawable="_settings"/>
 </resources>

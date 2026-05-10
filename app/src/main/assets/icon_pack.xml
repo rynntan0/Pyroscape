@@ -125,5 +125,13 @@
         <item>_googleclock</item>
         <item>_messaging</item>
         <item>_gemini</item>
+        <item>_douyin</item>
+        <item>_zhangwa</item>
+        <item>_paijitang</item>
+        <item>_thunderbird</item>
+        <item>_zhilian</item>
+        <item>_bankcmb</item>
+        <item>_zhuanzhuan</item>
+        <item>_settings</item>
     </string-array>
 </resources>
