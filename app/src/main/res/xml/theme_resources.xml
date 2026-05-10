@@ -82,4 +82,37 @@
     <AppIcon name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity" image="_googledrive"/>
     <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="_youtube"/>
     <AppIcon name="com.google.android.calendar/com.android.calendar.AllInOneActivity" image="_googlecalendar"/>
+    <AppIcon name="com.smk/com.smk.activity.LaunchActivity" image="_hzsmk"/>
+    <AppIcon name="com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity" image="_miguvideo"/>
+    <AppIcon name="com.netease.cloudmusic/com.netease.cloudmusic.activity.IconChangeDefaultAlias" image="_necloudmusic"/>
+    <AppIcon name="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity" image="_shizuku"/>
+    <AppIcon name="pl.damianpiwowarski.adapticons/pl.damianpiwowarski.adapticons.MainActivity_" image="_adaptiveicons"/>
+    <AppIcon name="com.advasoft.touchretouch.plus/com.advasoft.touchretouch.LicenseActivity" image="_retouch"/>
+    <AppIcon name="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer" image="_rexplorer"/>
+    <AppIcon name="com.baidu.tieba/com.baidu.tieba.tblauncher.MainTabActivity" image="_tieba"/>
+    <AppIcon name="com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity" image="_bitwarden"/>
+    <AppIcon name="com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity" image="_heybox"/>
+    <AppIcon name="com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity" image="_sai"/>
+    <AppIcon name="com.unionpay/com.unionpay.activity.UPActivityMain" image="_unionpay"/>
+    <AppIcon name="ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity" image="_deviceinfo"/>
+    <AppIcon name="com.github.android/com.github.android.main.MainActivity" image="_github"/>
+    <AppIcon name="me.ele/me.ele.Launcher" image="_eleme"/>
+    <AppIcon name="com.xeasy.noticefix/com.xeasy.noticefix.activity.MainActivity" image="_noticefix"/>
+    <AppIcon name="ph.spacedesk.beta/ph.spacedesk.httpwww.spacedesk.SAActivityConnect" image="_spacedesk"/>
+    <AppIcon name="com.sofascore.results/com.sofascore.results.main.start.StartActivity" image="_sofascore"/>
+    <AppIcon name="org.mian.gitnex/org.mian.gitnex.activities.MainActivity" image="_gitnex"/>
+    <AppIcon name="org.breezyweather/org.breezyweather.ui.main.MainActivity" image="_weather"/>
+    <AppIcon name="com.hypergryph.endfield/com.u8.sdk.U8UnityContext" image="_endfield"/>
+    <AppIcon name="com.deepseek.chat/com.deepseek.chat.MainActivity" image="_deepseek"/>
+    <AppIcon name="com.jingdong.app.mall/com.jingdong.app.mall.MainFrameActivity" image="_jd"/>
+    <AppIcon name="com.discord/com.discord.main.MainDefault" image="_discord"/>
+    <AppIcon name="com.larus.nova/com.larus.home.impl.alias.AliasActivity1" image="_doubao"/>
+    <AppIcon name="com.razer.neuron/com.razer.neuron.main.RnMainActivity" image="_remoteplay"/>
+    <AppIcon name="com.reddit.frontpage/launcher.default" image="_reddit"/>
+    <AppIcon name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity" image="_contacts"/>
+    <AppIcon name="com.felicanetworks.mfm.main/com.felicanetworks.mfm.main.ServiceListActivity" image="_felica"/>
+    <AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="_calculator"/>
+    <AppIcon name="com.google.android.deskclock/com.android.deskclock.DeskClock" image="_clock"/>
+    <AppIcon name="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity" image="_messaging"/>
+    <AppIcon name="com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity" image="_gemini"/>
 </Theme>

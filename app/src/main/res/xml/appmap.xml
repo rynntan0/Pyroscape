@@ -73,4 +73,37 @@
     <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="_googledrive"/>
     <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="_youtube"/>
     <item class="com.android.calendar.AllInOneActivity" name="_googlecalendar"/>
+    <item class="com.smk.activity.LaunchActivity" name="_hzsmk"/>
+    <item class="com.cmcc.cmvideo.splash.SplashActivity" name="_miguvideo"/>
+    <item class="com.netease.cloudmusic.activity.IconChangeDefaultAlias" name="_necloudmusic"/>
+    <item class="moe.shizuku.manager.MainActivity" name="_shizuku"/>
+    <item class="pl.damianpiwowarski.adapticons.MainActivity_" name="_adaptiveicons"/>
+    <item class="com.advasoft.touchretouch.LicenseActivity" name="_retouch"/>
+    <item class="com.speedsoftware.rootexplorer.RootExplorer" name="_rexplorer"/>
+    <item class="com.baidu.tieba.tblauncher.MainTabActivity" name="_tieba"/>
+    <item class="com.x8bit.bitwarden.MainActivity" name="_bitwarden"/>
+    <item class="com.max.xiaoheihe.SplashActivity" name="_heybox"/>
+    <item class="com.aefyr.sai.ui.activities.MainActivity" name="_sai"/>
+    <item class="com.unionpay.activity.UPActivityMain" name="_unionpay"/>
+    <item class="ru.andr7e.deviceinfohw.MainActivity" name="_deviceinfo"/>
+    <item class="com.github.android.main.MainActivity" name="_github"/>
+    <item class="me.ele.Launcher" name="_eleme"/>
+    <item class="com.xeasy.noticefix.activity.MainActivity" name="_noticefix"/>
+    <item class="ph.spacedesk.httpwww.spacedesk.SAActivityConnect" name="_spacedesk"/>
+    <item class="com.sofascore.results.main.start.StartActivity" name="_sofascore"/>
+    <item class="org.mian.gitnex.activities.MainActivity" name="_gitnex"/>
+    <item class="org.breezyweather.ui.main.MainActivity" name="_weather"/>
+    <item class="com.u8.sdk.U8UnityContext" name="_endfield"/>
+    <item class="com.deepseek.chat.MainActivity" name="_deepseek"/>
+    <item class="com.jingdong.app.mall.MainFrameActivity" name="_jd"/>
+    <item class="com.discord.main.MainDefault" name="_discord"/>
+    <item class="com.larus.home.impl.alias.AliasActivity1" name="_doubao"/>
+    <item class="com.razer.neuron.main.RnMainActivity" name="_remoteplay"/>
+    <item class="launcher.default" name="_reddit"/>
+    <item class="com.android.contacts.activities.PeopleActivity" name="_contacts"/>
+    <item class="com.felicanetworks.mfm.main.ServiceListActivity" name="_felica"/>
+    <item class="com.android.calculator2.Calculator" name="_calculator"/>
+    <item class="com.android.deskclock.DeskClock" name="_clock"/>
+    <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="_messaging"/>
+    <item class="com.google.android.apps.bard.shellapp.BardEntryPointActivity" name="_gemini"/>
 </appmap>

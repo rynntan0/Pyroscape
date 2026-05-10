@@ -293,5 +293,137 @@
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="_googlecalendar" />
 	
+    <item
+        component="ComponentInfo{com.smk/com.smk.activity.LaunchActivity}"
+        drawable="_hzsmk" />
+	
+    <item
+        component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}"
+        drawable="_miguvideo" />
+	
+    <item
+        component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.IconChangeDefaultAlias}"
+        drawable="_necloudmusic" />
+	
+    <item
+        component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}"
+        drawable="_shizuku" />
+	
+    <item
+        component="ComponentInfo{pl.damianpiwowarski.adapticons/pl.damianpiwowarski.adapticons.MainActivity_}"
+        drawable="_adaptiveicons" />
+	
+    <item
+        component="ComponentInfo{com.advasoft.touchretouch.plus/com.advasoft.touchretouch.LicenseActivity}"
+        drawable="_retouch" />
+	
+    <item
+        component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}"
+        drawable="_rexplorer" />
+	
+    <item
+        component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.tblauncher.MainTabActivity}"
+        drawable="_tieba" />
+	
+    <item
+        component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}"
+        drawable="_bitwarden" />
+	
+    <item
+        component="ComponentInfo{com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity}"
+        drawable="_heybox" />
+	
+    <item
+        component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}"
+        drawable="_sai" />
+	
+    <item
+        component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityMain}"
+        drawable="_unionpay" />
+	
+    <item
+        component="ComponentInfo{ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity}"
+        drawable="_deviceinfo" />
+	
+    <item
+        component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}"
+        drawable="_github" />
+	
+    <item
+        component="ComponentInfo{me.ele/me.ele.Launcher}"
+        drawable="_eleme" />
+	
+    <item
+        component="ComponentInfo{com.xeasy.noticefix/com.xeasy.noticefix.activity.MainActivity}"
+        drawable="_noticefix" />
+	
+    <item
+        component="ComponentInfo{ph.spacedesk.beta/ph.spacedesk.httpwww.spacedesk.SAActivityConnect}"
+        drawable="_spacedesk" />
+	
+    <item
+        component="ComponentInfo{com.sofascore.results/com.sofascore.results.main.start.StartActivity}"
+        drawable="_sofascore" />
+	
+    <item
+        component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}"
+        drawable="_gitnex" />
+	
+    <item
+        component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}"
+        drawable="_weather" />
+	
+    <item
+        component="ComponentInfo{com.hypergryph.endfield/com.u8.sdk.U8UnityContext}"
+        drawable="_endfield" />
+	
+    <item
+        component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}"
+        drawable="_deepseek" />
+	
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainFrameActivity}"
+        drawable="_jd" />
+	
+    <item
+        component="ComponentInfo{com.discord/com.discord.main.MainDefault}"
+        drawable="_discord" />
+	
+    <item
+        component="ComponentInfo{com.larus.nova/com.larus.home.impl.alias.AliasActivity1}"
+        drawable="_doubao" />
+	
+    <item
+        component="ComponentInfo{com.razer.neuron/com.razer.neuron.main.RnMainActivity}"
+        drawable="_remoteplay" />
+	
+    <item
+        component="ComponentInfo{com.reddit.frontpage/launcher.default}"
+        drawable="_reddit" />
+	
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="_contacts" />
+	
+    <item
+        component="ComponentInfo{com.felicanetworks.mfm.main/com.felicanetworks.mfm.main.ServiceListActivity}"
+        drawable="_felica" />
+	
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="_calculator" />
+	
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="_clock" />
+	
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="_messaging" />
+	
+    <item
+        component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}"
+        drawable="_gemini" />
+	
 
 </resources>

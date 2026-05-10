@@ -92,5 +92,38 @@
         <item>_googledrive</item>
         <item>_youtube</item>
         <item>_googlecalendar</item>
+        <item>_hzsmk</item>
+        <item>_miguvideo</item>
+        <item>_necloudmusic</item>
+        <item>_shizuku</item>
+        <item>_adaptiveicons</item>
+        <item>_retouch</item>
+        <item>_rexplorer</item>
+        <item>_tieba</item>
+        <item>_bitwarden</item>
+        <item>_heybox</item>
+        <item>_sai</item>
+        <item>_unionpay</item>
+        <item>_deviceinfo</item>
+        <item>_github</item>
+        <item>_eleme</item>
+        <item>_noticefix</item>
+        <item>_spacedesk</item>
+        <item>_sofascore</item>
+        <item>_gitnex</item>
+        <item>_weather</item>
+        <item>_endfield</item>
+        <item>_deepseek</item>
+        <item>_jd</item>
+        <item>_discord</item>
+        <item>_doubao</item>
+        <item>_remoteplay</item>
+        <item>_reddit</item>
+        <item>_contacts</item>
+        <item>_felica</item>
+        <item>_calculator</item>
+        <item>_clock</item>
+        <item>_messaging</item>
+        <item>_gemini</item>
     </string-array>
 </resources>
